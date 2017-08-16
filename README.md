@@ -1,5 +1,5 @@
 <img src="http://bitcore.io/css/images/module-message.png" alt="litecore message" height="35">
-# Litecoin Message Verification and Signing for Litecore
+# Mcoin Message Verification and Signing for Litecore
 
 
 [![NPM Package](https://img.shields.io/npm/v/litecore-message.svg?style=flat-square)](https://www.npmjs.org/package/litecore-message)
@@ -8,16 +8,16 @@
 
 litecore-message adds support for verifying and signing litecoin messages in [Node.js](http://nodejs.org/) and web browsers.
 
-See [the main litecore repo](https://github.com/litecoin-project/litecore) for more information.
+See [the main mcore repo](https://github.com/mcoinproject/mcore) for more information.
 
 ## Getting Started
 
 ```sh
-npm install litecore-message
+npm install mcore-message
 ```
 
 ```sh
-bower install litecore-message
+bower install mcore-message
 ```
 
 To sign a message:
